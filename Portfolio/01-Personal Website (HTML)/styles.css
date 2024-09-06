@@ -1,0 +1,78 @@
+/*img {
+    width: 200px; /!important; dont abuse important thingy/
+}        
+
+/this following thing is a class. I can add it to what I want./
+.flags{
+    width: 100px;
+    border: 1px dotted blue;
+}
+
+#sf{
+    background-color: gray;
+}
+
+.mex{
+    padding: 5px;
+    border-radius: 30%;
+}
+
+table {
+    border: 4px double blueviolet;
+}
+
+thead{
+    background-color: blue;
+}
+
+th{
+    color: white;
+}
+
+tbody tr:nth-child(even) {
+    background-color: gray;
+}
+
+p{
+    padding: 15px;
+    border: 10px solid black;
+}
+
+.country{
+    width: 50%;
+    display: inline;
+}
+
+.dest_img{
+    display:inline;
+}
+
+.dest_info{
+    display: inline-block;
+}
+
+.img1{
+    position: fixed; /gives the image one space and no matter where you go oin the webpage, it will be FIXED there./
+}
+
+.img2 {
+    position:relative; /the relative means or gives flow to the webpage/
+    top:-20px;
+    left:40 px;
+}
+
+.img3 {
+    position:absolute;
+    top:50px;
+    left: 20px; /MEANS THAT IT IS THAT PIXELS FROOOM THE LEFT, MEANING TO THE RIGHT/
+}
+
+.img4{
+    position:sticky; /**/
+  /*  top:200px;
+    left:20px;
+}
+
+content{
+    width:
+}
