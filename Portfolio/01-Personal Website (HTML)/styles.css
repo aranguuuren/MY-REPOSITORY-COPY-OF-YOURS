@@ -70,9 +70,15 @@ p{
 .img4{
     position:sticky; /**/
   /*  top:200px;
+
     left:20px;
 }
 
 content{
     width:
-}
+}*/
+
+
+body {
+    font-family: 'Oswald', sans-serif;
+  }
